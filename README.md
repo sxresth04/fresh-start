@@ -9,9 +9,28 @@
 
 [Netflix Dashboard - Tableau](https://public.tableau.com/app/profile/sharif.athar/viz/NetflixShowsMoviesDashboard/Dashboard1)
 
-- **Business Problem:** Netflix wants to gather useful insights on their shows and movies for their subscribers through their datasets. The issue is, they are working with too much data (approximately 82k rows of data combined) and are unsure how to effectively analyze and extract meaningful insights from it. They need a robust and scalable data analytics solution to handle the vast amount of data and uncover valuable patterns and trends.
+-Business Problem
+Netflix is dealing with an overwhelming volume of data — approximately 82,000 rows from its shows and movies datasets. While the data holds immense potential for improving user engagement and content strategy, the challenge lies in efficiently analyzing such a vast dataset to uncover actionable insights related to viewer behavior, genre popularity, and regional trends.
 
-- **How I Plan On Solving the Problem:** In helping Netflix gather valuable insights from their extensive movies and shows dataset, I will be utilizing SQL and a data visualization tool like Tableau to extract relevant information, and conduct insightful analyses. By leveraging SQL's functions, I can uncover key metrics such as viewer ratings, popularity trends, genre preferences, and viewership patterns. Once the data has been extracted and prepared, I will leverage Tableau to present the findings. This will allow for interactive exploration of the data, enabling stakeholders at Netflix to gain actionable insights through visually appealing charts, graphs, and interactive visualizations. I plan on creating a dynamic dashboard in Tableau that enables users to delve into specific movie genres, viewer demographics, or geographical regions.
+Proposed Solution
+To tackle this challenge, I propose a two-pronged analytical approach using SQL for data extraction and Tableau for visualization:
+
+Data Extraction & Analysis (SQL):
+I will use advanced SQL queries to process the large dataset, extracting key metrics such as:
+
+Viewer ratings distribution
+Time-series trends in show/movie popularity
+Most-watched genres over time
+Regional preferences and consumption patterns
+Interactive Dashboards (Tableau):
+Post analysis, I will develop an interactive Tableau dashboard that:
+
+Allows stakeholders to filter insights by genre, year, region, or demographics
+Visualizes trends through line charts, heat maps, and bar graphs
+Enables dynamic exploration of user preferences and content performance
+This approach ensures a scalable, insightful, and visually compelling solution that empowers Netflix to make data-driven content and marketing decisions.
+
+
 
 ## Questions I Wanted To Answer From the Dataset:
 
